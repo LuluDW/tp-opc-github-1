@@ -1,0 +1,1 @@
+La commande git add permet de tracker le fichier et de l'ajouter à l'index
